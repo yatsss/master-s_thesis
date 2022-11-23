@@ -8,11 +8,11 @@ The standard of writing a job
 Work plan:
 tbd
 
-Chapter I
+Chapter I YOLO models application?
 -TBD
 
-Chapter II
+Chapter II YOLO models description?
 -TBD
 
-Chapter III
+Chapter III YOLO models comparison?
 -TBD
