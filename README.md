@@ -5,7 +5,7 @@ Master's thesis files. They consist of:
 Jupyter folder for YOLO examples,
 The standard of writing a job
 
-Chapter I: YOLO Models Fundamentals and Background
+Chapter I: YOLO Models Fundamentals and Background <br />
 Introduction: Introduce the topic of object detection and the importance of this task in various applications; provide a brief overview of the history and evolution of object detection methods; explain the motivation for using YOLO models in object detection
 Background: Describe the fundamentals of convolutional neural networks (CNNs) and how they are used in object detection; explain the concept of anchor boxes and how they are used in object detection algorithms; introduce the YOLO (You Only Look Once) architecture and its key features
 
